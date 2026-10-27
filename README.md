@@ -21,53 +21,35 @@
 
 ## 界面预览
 
-以下为各平台布局的浅色、深色预览，使用示例内容；实际界面以安装版本为准。展开对应系统后，点击图片可查看原图。
+以下仅展示 Android、桌面版和 TV 版三类界面。图片由 v1.1.10 的 Flutter 界面组件生成，使用示例内容；实际媒体与账号数据以使用时为准。点击图片可查看原图。
 
 <details open>
-<summary><strong>Android 手机</strong></summary>
+<summary><strong>Android</strong></summary>
 
-| 浅色 | 深色 |
-| --- | --- |
-| [<img src="docs/previews/android-light-home.png" width="270" alt="Android 手机首页，浅色主题">](docs/previews/android-light-home.png) | [<img src="docs/previews/android-dark-home.png" width="270" alt="Android 手机首页，深色主题">](docs/previews/android-dark-home.png) |
+| 首页 | 找片 | 详情 |
+| --- | --- | --- |
+| [<img src="docs/previews/android-home.png" width="240" alt="Android 放映厅首页">](docs/previews/android-home.png) | [<img src="docs/previews/android-search.png" width="240" alt="Android 找片页面">](docs/previews/android-search.png) | [<img src="docs/previews/android-detail.png" width="240" alt="Android 影片详情">](docs/previews/android-detail.png) |
+
+| 播放 | 直播 | 我的 |
+| --- | --- | --- |
+| [<img src="docs/previews/android-player.png" width="240" alt="Android 播放页面">](docs/previews/android-player.png) | [<img src="docs/previews/android-live.png" width="240" alt="Android 竖屏直播与频道列表">](docs/previews/android-live.png) | [<img src="docs/previews/android-account.png" width="240" alt="Android 我的，直接展示观看记录与收藏">](docs/previews/android-account.png) |
 
 </details>
 
 <details>
-<summary><strong>Android TV</strong></summary>
+<summary><strong>桌面版</strong></summary>
+
+| 浅色 | 深色 |
+| --- | --- |
+| [<img src="docs/previews/desktop-light-home.png" width="640" alt="桌面版首页，浅色主题">](docs/previews/desktop-light-home.png) | [<img src="docs/previews/desktop-dark-home.png" width="640" alt="桌面版首页，深色主题">](docs/previews/desktop-dark-home.png) |
+
+</details>
+
+<details>
+<summary><strong>TV 版</strong></summary>
 
 | 浅色 · 遥控器焦点 | 深色 · 遥控器焦点 |
 | --- | --- |
-| [<img src="docs/previews/android-tv-light-home.png" width="640" alt="Android TV 首页，浅色主题与遥控器焦点">](docs/previews/android-tv-light-home.png) | [<img src="docs/previews/android-tv-dark-home.png" width="640" alt="Android TV 首页，深色主题与遥控器焦点">](docs/previews/android-tv-dark-home.png) |
-
-</details>
-
-<details>
-<summary><strong>iOS / iPadOS</strong></summary>
-
-| iPhone · 浅色 | iPhone · 深色 |
-| --- | --- |
-| [<img src="docs/previews/ios-light-home.png" width="270" alt="iPhone 首页布局，浅色主题">](docs/previews/ios-light-home.png) | [<img src="docs/previews/ios-dark-home.png" width="270" alt="iPhone 首页布局，深色主题">](docs/previews/ios-dark-home.png) |
-
-| iPad · 浅色 | iPad · 深色 |
-| --- | --- |
-| [<img src="docs/previews/ipados-light-home.png" width="420" alt="iPad 首页布局，浅色主题">](docs/previews/ipados-light-home.png) | [<img src="docs/previews/ipados-dark-home.png" width="420" alt="iPad 首页布局，深色主题">](docs/previews/ipados-dark-home.png) |
-
-</details>
-
-<details open>
-<summary><strong>macOS</strong></summary>
-
-| 浅色 | 深色 |
-| --- | --- |
-| [<img src="docs/previews/macos-light-home.png" width="640" alt="macOS 桌面首页，浅色主题">](docs/previews/macos-light-home.png) | [<img src="docs/previews/macos-dark-home.png" width="640" alt="macOS 桌面首页，深色主题">](docs/previews/macos-dark-home.png) |
-
-</details>
-
-<details>
-<summary><strong>Windows</strong></summary>
-
-| 浅色 | 深色 |
-| --- | --- |
-| [<img src="docs/previews/windows-light-home.png" width="640" alt="Windows 桌面首页布局，浅色主题">](docs/previews/windows-light-home.png) | [<img src="docs/previews/windows-dark-home.png" width="640" alt="Windows 桌面首页布局，深色主题">](docs/previews/windows-dark-home.png) |
+| [<img src="docs/previews/android-tv-light-home.png" width="640" alt="TV 版首页，浅色主题与遥控器焦点">](docs/previews/android-tv-light-home.png) | [<img src="docs/previews/android-tv-dark-home.png" width="640" alt="TV 版首页，深色主题与遥控器焦点">](docs/previews/android-tv-dark-home.png) |
 
 </details>
