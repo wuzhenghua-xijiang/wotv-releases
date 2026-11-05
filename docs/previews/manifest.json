@@ -1,0 +1,144 @@
+{
+  "updated": "2026-11-05",
+  "application": {
+    "version": "1.1.32",
+    "sourceCommit": "70678d3a7c7acdd903bf6a5bfbb16fb7db67b7f5",
+    "flutter": "3.29.3",
+    "content": "Controlled local sample films, account and history; no remote media decoding.",
+    "mobileCapture": "test/mobile_cinema_test.dart",
+    "workspaceCapture": "Production AppShell with platform profiles, local artwork cache and sample controller from test/ui_redesign_test.dart; recent recommendations supplied locally; selected featured tab."
+  },
+  "encoding": "Lossless PNG; decoded RGBA pixels match the Flutter export.",
+  "images": [
+    {
+      "file": "android-home.png",
+      "kind": "application-widget",
+      "source": "build/release-preview-refresh-20261105/mobile/phone-home.png",
+      "sourceSha256": "c5633da91050b5a607f364bf82909e446c646666722e8ed887ede5e3120d9377",
+      "size": [
+        390,
+        844
+      ],
+      "bytes": 208550,
+      "sha256": "eaa60da22cfb39b863bc4718a3608f31abb8f0811973288ca0e5afbcca0ebeb8"
+    },
+    {
+      "file": "android-search.png",
+      "kind": "application-widget",
+      "source": "build/release-preview-refresh-20261105/mobile/phone-search.png",
+      "sourceSha256": "344c33f9b9f8cc1f0f15c3e39a5d4f330ead53558aef8554a512a5140042a0ad",
+      "size": [
+        390,
+        844
+      ],
+      "bytes": 61524,
+      "sha256": "f4e60eb1bf0753d77ae14a2983b5dd52aaa2106ab0b02b2a7b69cdfd76f69bfc"
+    },
+    {
+      "file": "android-detail.png",
+      "kind": "application-widget",
+      "source": "build/release-preview-refresh-20261105/mobile/phone-detail.png",
+      "sourceSha256": "facf72123708e1960f87d5d54576cfa8e29bf744021cda17c4772c7fff41a7fe",
+      "size": [
+        390,
+        844
+      ],
+      "bytes": 97035,
+      "sha256": "e9730b15145f873f5d4df58c68473de948f8013c73edecce0ca05d33d8bb0392"
+    },
+    {
+      "file": "android-player.png",
+      "kind": "application-widget",
+      "source": "build/release-preview-refresh-20261105/mobile/phone-player.png",
+      "sourceSha256": "cbe26e5ffc0b785f065625aa6f4597b8e033d2c83f6e86187582d9c4850c5d3a",
+      "size": [
+        390,
+        844
+      ],
+      "bytes": 97028,
+      "sha256": "6f8fb9c7eba9ee260bad1c64075209926a8a25722c4846c8be998f4c1be9f8d3"
+    },
+    {
+      "file": "android-live.png",
+      "kind": "application-widget",
+      "source": "build/release-preview-refresh-20261105/mobile/phone-live.png",
+      "sourceSha256": "a4decda28213f023022fe9feb91f05c981ebfc33f0cd0829e3e7abb0ffaf0f20",
+      "size": [
+        390,
+        844
+      ],
+      "bytes": 36892,
+      "sha256": "b7d6fbc687b5a697d2732c1b77aa729392295bf13c505f12a7ba0876f5334040"
+    },
+    {
+      "file": "android-account.png",
+      "kind": "application-widget",
+      "source": "build/release-preview-refresh-20261105/mobile/phone-account.png",
+      "sourceSha256": "7bd068e5f6dbba62b33ce2e23f3d8877de9e6d6db2792cabe126e128a0eb3274",
+      "size": [
+        390,
+        844
+      ],
+      "bytes": 172578,
+      "sha256": "6db1b5d773654080a18bae2a067c410e3bb11ec3718afaee9adb580dd6f6f56f"
+    },
+    {
+      "file": "desktop-light-home.png",
+      "kind": "application-widget",
+      "source": "build/release-preview-refresh-20261105/workspace/desktop-light-home.png",
+      "sourceSha256": "15bac78d71a712db480a967c8aceb8016e64e5d8ffb4469d9cada3dd04591431",
+      "size": [
+        1440,
+        900
+      ],
+      "bytes": 988024,
+      "sha256": "7e6b45dedfc548610eade555673b32af706de89e34c9b03f87fe24a5c13af17e"
+    },
+    {
+      "file": "android-tv-light-home.png",
+      "kind": "application-widget",
+      "source": "build/release-preview-refresh-20261105/workspace/tv-light-home.png",
+      "sourceSha256": "5b611df175a95442dc1d85bfc81c4cb3b597ab2f9a9f2915063c85499db1228d",
+      "size": [
+        1280,
+        720
+      ],
+      "bytes": 751777,
+      "sha256": "b37de3499f5aec62308a36da930f8fef56cb43fdd2363bec60d479066d1b4efa"
+    },
+    {
+      "file": "desktop-dark-home.png",
+      "kind": "application-widget",
+      "source": "build/release-preview-refresh-20261105/workspace/desktop-dark-home.png",
+      "sourceSha256": "273d5a51713c4926af172b013a3d2d6b23dff23c1d5b912a41996226e3fc15b5",
+      "size": [
+        1440,
+        900
+      ],
+      "bytes": 975473,
+      "sha256": "00451930672b31dafe1ffad9879815c7b99b976f882c7a16d511fdda83d31633"
+    },
+    {
+      "file": "android-tv-dark-home.png",
+      "kind": "application-widget",
+      "source": "build/release-preview-refresh-20261105/workspace/tv-dark-home.png",
+      "sourceSha256": "50c1fdb3afeeaa47d34e1f4a8b7ce1b3631df9c6bae079f261e407e13ad71cab",
+      "size": [
+        1280,
+        720
+      ],
+      "bytes": 740862,
+      "sha256": "233801f791bf55362bf93a6f705d7f1107601aa597f7570771d814ad58db65e5"
+    },
+    {
+      "file": "wotv.png",
+      "kind": "application-icon",
+      "size": [
+        1024,
+        1024
+      ],
+      "bytes": 683574,
+      "sha256": "6a2e1782d98efb128ee4f48623fb0a4fb81cab0c55e8917d52fe3091773d8599"
+    }
+  ]
+}

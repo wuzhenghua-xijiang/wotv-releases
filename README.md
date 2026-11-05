@@ -6,7 +6,7 @@
 
 沃TV 是一款基于 Flutter 的跨平台影视客户端，支持 Android 手机和平板、Android TV、iPhone / iPad、macOS 和 Windows。提供跨源搜索、剧集选择、收藏与播放记录、夸克网盘播放，并针对触控、键鼠和电视遥控器适配界面。
 
-本仓库提供沃TV的安装包、应用更新清单和界面预览。
+本仓库提供沃TV的安装包、应用更新清单和界面截图。
 
 本质是为了解决tvbox的桌面UI难看且不支持多端的问题才进行的ai生成.
 
@@ -21,16 +21,16 @@
 
 当前最新发布提供 Android 和 macOS 安装包。iOS / iPadOS、Windows 请在历史版本中查找对应附件；iOS 安装范围由该版本的签名决定。
 
-## 界面预览
+## 界面截图
 
-以下仅展示 Android、桌面版和 TV 版三类界面。图片由 v1.1.10 的 Flutter 界面组件生成，使用示例内容；实际媒体与账号数据以使用时为准。点击图片可查看原图。
+更新于 2026-11-05，展示 v1.1.32 的 Android、桌面版和 TV 版界面。截图由当前版本的 Flutter 组件使用本地示例内容渲染，实际媒体与账号数据以使用时为准。点击图片可查看原图，详细来源见[图片说明](docs/previews/README.md)。
 
 <details open>
 <summary><strong>Android</strong></summary>
 
 | 首页 | 找片 | 详情 |
 | --- | --- | --- |
-| [<img src="docs/previews/android-home.png" width="240" alt="Android 放映厅首页">](docs/previews/android-home.png) | [<img src="docs/previews/android-search.png" width="240" alt="Android 找片页面">](docs/previews/android-search.png) | [<img src="docs/previews/android-detail.png" width="240" alt="Android 影片详情">](docs/previews/android-detail.png) |
+| [<img src="docs/previews/android-home.png" width="240" alt="Android 首页，大幅推荐与横向最近观看">](docs/previews/android-home.png) | [<img src="docs/previews/android-search.png" width="240" alt="Android 搜索结果页面">](docs/previews/android-search.png) | [<img src="docs/previews/android-detail.png" width="240" alt="Android 影片详情，顶部播放器与播放版本">](docs/previews/android-detail.png) |
 
 | 播放 | 直播 | 我的 |
 | --- | --- | --- |
